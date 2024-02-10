@@ -29,6 +29,6 @@ class Session {
   // fungsi untuk clear
   static Future<bool> clearUser() async {
     SharedPreferences pref = await SharedPreferences.getInstance();
-    pref.remove("user");
+    return await pref.remove("user");
   }
 }

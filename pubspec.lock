@@ -58,35 +58,35 @@ packages:
     source: hosted
     version: "1.0.5"
   d_button:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: d_button
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.10"
   d_info:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: d_info
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.2"
   d_input:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: d_input
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.9"
   d_method:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: d_method
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.9"
   d_view:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: d_view
       url: "https://pub.dartlang.org"
@@ -185,7 +185,7 @@ packages:
     source: hosted
     version: "4.6.5"
   go_router:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: go_router
       url: "https://pub.dartlang.org"
@@ -199,7 +199,7 @@ packages:
     source: hosted
     version: "4.0.4"
   http:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: http
       url: "https://pub.dartlang.org"
@@ -213,7 +213,7 @@ packages:
     source: hosted
     version: "4.0.2"
   image_picker:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: image_picker
       url: "https://pub.dartlang.org"
@@ -269,7 +269,7 @@ packages:
     source: hosted
     version: "0.2.1"
   intl:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: intl
       url: "https://pub.dartlang.org"
@@ -395,14 +395,14 @@ packages:
     source: hosted
     version: "2.1.5"
   provider:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: provider
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.1.1"
   shared_preferences:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: shared_preferences
       url: "https://pub.dartlang.org"
